@@ -1,5 +1,6 @@
 const express = require('express');
 const bodyParser = require('body-parser');
+const serverless = require('serverless-http');
 
 const app = express();
 
@@ -17,7 +18,7 @@ app.post('/generate-link', (req, res, next) => {
 });
 
 app.use('/', (req, res, next) => {
-    res.render('./index')
+    res.render('./index');
 });
-
+module.exports.handler = serverless(app);
 app.listen(3000);
