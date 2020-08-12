@@ -6,7 +6,7 @@ const app = express();
 const router = express.Router();
 app.set('view engine', 'ejs');
 app.use(bodyParser.urlencoded({ extended: true }))
-app.use('/.netlify/functions/', router);
+app.use('/.netlify/functions/ws', router);
 
 router.post('/generate-link', (req, res, next) => {
     let wsNumber = req.body.number;
