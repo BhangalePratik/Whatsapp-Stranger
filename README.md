@@ -12,5 +12,5 @@ Help us we need your support to bring improvements to the application.
 
 Hope you like the tool.
 
-Thank YOu :)
+Thank You :)
 
