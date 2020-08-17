@@ -4,5 +4,4 @@
 This is my first time accessing github from my local computer.
 Nicely added
 
-Its working better than I thought
-
+I fucked  I thought it is working fine but its not working fine. what should I do 
