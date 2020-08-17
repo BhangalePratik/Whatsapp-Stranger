@@ -1,7 +1,7 @@
 
 # Whatsapp Stranger
 
-## No need to Save
+## No need to save temporary numbers
 Using this feature you dont need to save anyone number. Just send msg using our tool.
 
 ## Easy to use
