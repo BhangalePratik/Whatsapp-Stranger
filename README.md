@@ -7,8 +7,10 @@ Using this feature you dont need to save anyone number. Just send msg using our 
 ## Easy to use
 This feature is easy to use. Just enter number and msg. It will automatically send msg via whatsapp.
 
+## Help Community to grow
+Help us we need your support to bring improvements to the application./s/s
 
-Hope, you will enjoy our tool
-This thing doesn't work. I dont know the reason.
+Hope you like the tool.\s\s
+
 Thank YOu :)
 
